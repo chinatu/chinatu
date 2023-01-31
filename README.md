@@ -34,5 +34,3 @@ am still on the path to learning and constantly improving
 </p>
 
 <h2> Examples of My Work </h2>
-<p>Lorem Ipsum Jand
-</p>
