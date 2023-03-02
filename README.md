@@ -34,3 +34,9 @@ am still on the path to learning and constantly improving
 </p>
 
 <h2> Examples of My Work </h2>
+
+<h3>Login Use Cases with Selenium<h3>
+<p> Here I use Selenium and Webdriver.io combined with Test NG assertions to explore some login use cases on a login page, both negative and positive cases
+ , to capture a typical automation using the selenuim framework and Java programming language. <p>
+  
+  
