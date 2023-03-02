@@ -4,7 +4,7 @@
 
 Over the years, I have had the privilege of working on different exciting ideas and projects using diffrent tools and languages, of which I
 am still on the path to learning and constantly improving
-- 💞️ I’m looking to collaborate on Software Testing methodlogies and exiciting ideas generally in software development
+- 💞️ I’m looking to collaborate on Software Testing Stategies and exiciting ideas generally in software development
 - 📫 My official email is chinatudev@gmail.com
 
 <h2>Portfolio</h2>
