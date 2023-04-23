@@ -29,14 +29,21 @@ am still on the path to learning and constantly improving
 
 
 <h2> About Me </h2>
-<p>I am a tenacious person, one of the qualities on which I pride myself in. On one hand I am organized, attentive, and intutitive in my decision making. And on the other hand I love to communicate, which is the bedrock of any collaboration, communication that comes with empathy and the willingness to listen and in turn solve problems together.</p>
-<p> I got my Bachelor's degree in Computer Science from Babcock University, Nigeria and have served in various leadership capacities, in addition to this I have garnered experience with about 3+ years in the software development field, worked on many projects within Nigeria and Africa at large </p>
+<p> Dear Reader <p>
+  
+<p>I am a tenacious person, one of the qualities on which I pride myself in. On one hand I am organized, attentive, and intutitive in my decision making. And on the other hand I love to communicate, which is the bedrock of any collaboration, communication that comes with empathy and the willingness to listen and in turn solve problems together. I have a proven track record of influencing positive organizational outcomes and am confident in working with cross-functional teams to solve complex and critical problems.</p>
+
+<p> I have a Certified Tester Foundation Level (CTFL) certification from ISTQB and completed the Silicon Valley Immersion Program in San Mateo, California. I got my Bachelor's degree in Computer Science from Babcock University, Nigeria and have served in various leadership capacities, in addition to this I have garnered experience with about 3+ years in the software development field, worked on many projects within Nigeria and Africa at large <p>
+  
 <p> Exploiting my much gathered knowledge and skill, I continue to look towards personal development and contributing to organization successes in whatever capacity I find myself. Confident in my the ability to collaborate with cross-functional teams to solve complex, high-stakes problems.
 </p>
 
+<p> In my free time, I like to read, work on the Internet, play games and checkers, and watch documentaries and historical documentaries. Thank you for reading.<p>
+
 <h2> My CV </h2>
 <p> Here is a copy of my Resume, Click Link below to Download <p>
-<a href="https://drive.google.com/file/d/1aaGgvK-JswL4BRKDih5POmEw3bgjtRMb/view?usp=sharing"> Download file </a>
+<a href="mailTo:chinatudev@gmail.com"> Download file </a>
+<p><i>PS: The download Link might not work all the time as it is constantly in progress, you can shoot a mail instead using the same link</i></p>
   
   
 <h2> Skills </h2>
