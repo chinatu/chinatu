@@ -38,7 +38,7 @@ am still on the path to learning and constantly improving
 <p> Exploiting my much gathered knowledge and skill, I continue to look towards personal development and contributing to organization successes in whatever capacity I find myself. Confident in my the ability to collaborate with cross-functional teams to solve complex, high-stakes problems.
 </p>
 
-<p> In my free time, I like to read, work on the Internet, play games and checkers, and watch documentaries and historical documentaries. Thank you for reading.<p>
+<p> In my free time, I like to read, work on the Internet, play games and checkers, and watch documentaries and historical docuseries. Thank you for reading.<p>
 
 <h2> My CV </h2>
 <p> Here is a copy of my Resume, Click Link below to Download <p>
@@ -96,13 +96,13 @@ am still on the path to learning and constantly improving
  ,to capture a typical automation using the selenuim framework and Java programming language. <p>
    https://github.com/chinatu/Login-Selenium-Project.git
   
-<h3>Todo List Test Cases with Cypress <h3>
+<h3>Todo List Test Cases with Cypress </h3>
   <p> Here I used Cypress and Javascript combined with the Page Object Model to design a demo set of testcases for a React todo Application I created. Here a basic concept of retriving elements and retrieving the elements to perform a couple of tests is done using cypress. <p>
   <p> Another powerful feature of Cypress is its ability to provide real-time feedback and debugging tools to developers. The Cypress Test Runner allows developers to view the application and the automated tests side-by-side, making it easy to identify and diagnose any issues that may arise during testing. <p>
   <p> The React Application repo is located here https://github.com/chinatu/TodoList-React-App <p>
   https://github.com/chinatu/todolist-cy-test
   
- <h3> Exeat Management System <h3>
+ <h3> Exeat Management System </h3>
    <p> This project formed the foundation of my Research Project in final year undergraduate, here I developed a Java Desktop Application that tackles the issue of managing exeat in a school system.<p>
    <p> Using javafx, scenebuilder and sql to bring the project to life, here I made a consious decision of using javafx over swing because of some of the advantages javafx offered over swing at the time. <p>
    https://github.com/chinatu/studentExeatManagement
