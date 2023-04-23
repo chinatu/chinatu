@@ -17,12 +17,12 @@ am still on the path to learning and constantly improving
   <li><a href="#-courses-"> Courses </a></li>
   <li><a href="#-examples-of-my-work-"> Examples of My Work </a>
   <ul>
-    <li><a href="#-about-me-"> Testcases and Case Studies </a></li>
-    <li><a href="#-about-me-"> Bug Report and Work in Jira </a></li>
-    <li><a href="#-about-me-"> Mindmaps and Diagrams </a></li>
+    <li><a href="#-examples-of-my-work-"> Testcases, Case Studies and Projects </a></li>
+    <li><a href="#-examples-of-my-work-"> Bug Report and Work in Jira </a></li>
+    <li><a href="#-examples-of-my-work-"> Mindmaps and Diagrams </a></li>
   </ul>
   </li>
-  <li><a href="#-about-me-"> Books I have Read </a></li>
+  <li><a href="#-books-i-have-read-"> Books I have Read </a></li>
   <li><a href="#-stats-"> Github Stats </a></li>
 </ul>
 
@@ -89,10 +89,29 @@ am still on the path to learning and constantly improving
  ,to capture a typical automation using the selenuim framework and Java programming language. <p>
    https://github.com/chinatu/Login-Selenium-Project.git
   
+<h3>Todo List Test Cases with Cypress <h3>
+  <p> Here I used Cypress and Javascript combined with the Page Object Model to design a demo set of testcases for a React todo Application I created. Here a basic concept of retriving elements and retrieving the elements to perform a couple of tests is done using cypress. <p>
+  <p> Another powerful feature of Cypress is its ability to provide real-time feedback and debugging tools to developers. The Cypress Test Runner allows developers to view the application and the automated tests side-by-side, making it easy to identify and diagnose any issues that may arise during testing. <p>
+  <p> The React Application repo is located here https://github.com/chinatu/TodoList-React-App <p>
+  https://github.com/chinatu/todolist-cy-test
+  
+ <h3> Exeat Management System <h3>
+   <p> This project formed the foundation of my Research Project in final year undergraduate, here I developed a Java Desktop Application that tackles the issue of managing exeat in a school system.<p>
+   <p> Using javafx, scenebuilder and sql to bring the project to life, here I made a consious decision of using javafx over swing because of some of the advantages javafx offered over swing at the time. <p>
+   https://github.com/chinatu/studentExeatManagement
+  
 <h2> Courses <h2>
 <p><a href="https://testautomationu.applitools.com/certificate/?id=496f9d40"> Selenium/ WebDriver IO </a></p>
 <p><a href="https://testautomationu.applitools.com/certificate/?id=f10c72a8"> Automating Browser with JavaScript </a></p>
 <p><a href="#"> Learn JMeter - Performance & API Testing </a></p>
+  
+
+ <h2> Books I have Read <h2>
+   <ul>
+      <li>Java Programming (Second Edition) by Farrell</li>
+     <li>The Art of Software Testing (Glenford J Myers, Corey Sandler, Tom Badgett</li>
+     <li>Napoleon by Liam Dale</li>
+   </ul>
   
   
 <h2> Stats <h2>
